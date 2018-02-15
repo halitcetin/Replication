@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.net.URL"/>
+<fullyQualifiedTypeName name="net.fortuna.ical4j.model.Calendar"/>
+<fullyQualifiedTypeName name="java.io.StringReader"/>
+<fullyQualifiedTypeName name="download.DownloadICAL"/>
+<fullyQualifiedTypeName name="net.fortuna.ical4j.data.CalendarBuilder"/>
+<fullyQualifiedTypeName name="net.fortuna.ical4j.model.component.CalendarComponent"/>
+<fullyQualifiedTypeName name="net.fortuna.ical4j.model.ComponentList"/>
+<fullyQualifiedTypeName name="java.awt.Component"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,14 @@
+package parse;
+
+import net.fortuna.ical4j.*;
+import java.io.FileInputStream;
+
+
+public class ParserICAL {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

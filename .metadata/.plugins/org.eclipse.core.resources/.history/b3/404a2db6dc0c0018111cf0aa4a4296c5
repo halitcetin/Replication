@@ -1,0 +1,24 @@
+package parse;
+
+import net.fortuna.ical4j.data.CalendarBuilder;
+import net.fortuna.ical4j.model.Calendar;
+
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.io.StringReader;
+
+
+public class ParserICAL {
+
+	public static void main(String[] args) throws Exception {
+	
+		String myCalendarString = "ade.ics";
+		StringReader sin = new StringReader(myCalendarString);
+		CalendarBuilder builder = new CalendarBuilder();
+		Calendar calendar = builder.build(sin);
+		
+		//System.out.println(sin.toString());
+		System.out.println(calendar.toString());
+	}
+
+}
